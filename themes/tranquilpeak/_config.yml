@@ -35,18 +35,18 @@ sidebar:
             title: global.home
             url: /
             icon: home
-        categories:
-            title: global.categories
-            url: /all-categories
-            icon: bookmark
-        tags:
-            title: global.tags
-            url: /all-tags
-            icon: tags
-        archives:
-            title: global.archives
-            url: /all-archives
-            icon: archive
+        #categories:
+        #    title: global.categories
+        #    url: /all-categories
+        #    icon: bookmark
+        #tags:
+        #    title: global.tags
+        #    url: /all-tags
+        #    icon: tags
+        #archives:
+        #    title: global.archives
+        #    url: /all-archives
+        #    icon: archive
         search:
             title: global.search
             url: /#search
@@ -58,10 +58,10 @@ sidebar:
             url: /#about
             icon: question
     author_links:
-        # github:
-        #     title: global.github
-        #     url: https://github.com/
-        #     icon: github
+        github:
+            title: global.github
+            url: https://github.com/leonardodavila
+            icon: github
         # stack_overflow:
         #     title: global.stack_overflow
         #     url: http://stackoverflow.com/users
@@ -78,19 +78,19 @@ sidebar:
         #     title: global.google_plus
         #     url: https://plus.google.com/
         #     icon: google-plus
-        # linked_in:
-        #     title: global.linkedin
-        #     url: https://www.linkedin.com/profile/
-        #     icon: linkedin
-        # mail:
-        #     title: global.mail
-        #     url: mailto:
-        #     icon: envelope-o
-    rss:
-        rss:
-            title: global.rss
-            url: /atom.xml
-            icon: rss
+        linked_in:
+            title: global.linkedin
+            url: https://www.linkedin.com/in/leonardomaiadavila
+            icon: linkedin
+        mail:
+            title: global.mail
+            url: mailto:leonardo.maia.davila@gmail.com
+            icon: envelope-o
+    #rss:
+    #    rss:
+    #        title: global.rss
+    #        url: /atom.xml
+    #        icon: rss
 
 
 # Header configuration
